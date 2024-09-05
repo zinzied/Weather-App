@@ -11,7 +11,8 @@ This is a PyQt5-based desktop application that fetches and displays weather info
 
 ## Screenshots
 
-![Weather App Screenshot](path_to_screenshot.png)
+![image](https://github.com/user-attachments/assets/2a66f665-303c-4d90-9f2b-2aaa29336fdf)
+
 
 ## Installation
 
