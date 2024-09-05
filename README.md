@@ -17,8 +17,8 @@ This is a PyQt5-based desktop application that fetches and displays weather info
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/weather-app.git
-    cd weather-app
+    git clone https://github.com/zinzied/Weather-App.git
+    cd Weather-App
     ```
 
 2. **Install the required dependencies**:
@@ -32,7 +32,7 @@ This is a PyQt5-based desktop application that fetches and displays weather info
 
 4. **Run the application**:
     ```sh
-    python main.py
+    python weather.py
     ```
 
 ## Usage
